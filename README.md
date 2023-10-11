@@ -15,6 +15,8 @@ El siguiente Dataset es una recopilación datos relacionados con el comercio int
 
 ## Queries y Scripts de Phyton usados
 
+Colab: "https://colab.research.google.com/drive/1mOzX6twBSj8pGyQ91ApaqLmaBtNuF2i9?usp=sharing"
+
 #Instalar librería para abrir datasets
 !pip install opendatasets
 import opendatasets as od
